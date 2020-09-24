@@ -3,6 +3,7 @@ Are you here for one of the following?
 1. I want to request a new feature for one of SKGadi's software or hardware products.
 1. I want to report a bug for one of the SKGadi's software or hardware products.
 1. I have doubts about the premium membership.
+
 You are in the right place.
 # How do I start?
 The following steps will guide you to solve your query.
